@@ -24,4 +24,13 @@ body {
 .categories i {
     color: var(--color-400);
     font-size: 3rem;
+
+.hero {
+    padding: 50px 0px;
+    background-color: var(--color-400);
+    color: #fff;
+}
+
+.hero p {
+    color: var(--color-100)
 }
