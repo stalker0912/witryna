@@ -16,6 +16,15 @@ body {
     padding: 0px;
 }
 
+.categories {
+    padding: 50px 0px;
+    background-color: var(--color-200);
+}
+
+.categories i {
+    color: var(--color-400);
+    font-size: 3rem;
+
 .hero {
     padding: 50px 0px;
     background-color: var(--color-400);
